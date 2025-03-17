@@ -1,4 +1,4 @@
-# 👥 Employee Management System
+# 👥 Workforce Management System
 
 A straightforward React-based employee management system focused on task tracking and team management.
 
