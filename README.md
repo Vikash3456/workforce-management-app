@@ -6,7 +6,7 @@ A straightforward React-based employee management system focused on task trackin
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 <div align="center">
- ![Screenshot (126)](https://github.com/user-attachments/assets/745442a9-20f9-4cf6-b8aa-50a04ff0cdb1)
+  <img src="https://github.com/user-attachments/assets/745442a9-20f9-4cf6-b8aa-50a04ff0cdb1" alt="Dashboard Screenshot" />
   <p><em>Employee Management System Dashboard</em></p>
 </div>
 
