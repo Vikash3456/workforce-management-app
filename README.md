@@ -57,7 +57,12 @@ npm start
 ```
 
 4. Open http://localhost:3000 in your browser
-
+5. For   login
+                  Admin -      email: admin@me.com
+                               password: 123
+                  Employee -  email: e@e.com
+                              password: 123
+                    
 ## 🤝 Contributing
 
 Feel free to submit issues and pull requests for bug fixes or improvements.
